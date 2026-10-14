@@ -148,7 +148,7 @@ retail-sales-powerbi-dashboard/
     └── DAX_MEASURES.md
 ```
 
-The full list of DAX measures and calculated columns is in [docs/DAX_MEASURES.md](./docs/DAX_MEASURES.md).
+The full list of DAX measures and calculated columns is in [DAX_MEASURES.md](./DAX_MEASURES.md)
 
 ## 11. Skills Demonstrated
 

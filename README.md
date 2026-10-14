@@ -156,4 +156,10 @@ Data cleaning and transformation (Power Query) · Star-schema data modelling · 
 
 ## 12. Author
 
-**[Your Name]** · [LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:you@example.com)
+Helan Preethi
+
+Finance Analytics Professional
+
+Interested in building practical analytics projects using:
+
+SQL • Excel • Python • Power BI • Business Analysis • Data Analytics

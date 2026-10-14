@@ -65,7 +65,7 @@ Calculated columns added in the model: `Order Size` (Bulk / Normal), `Price Tier
 ## 5. Dashboard Walkthrough
 
 ### Page 1: Sales Overview
-![Sales overview](images/01-sales-overview.png)
+![Sales Overview](./Sales%20overview.png)
 
 **What it shows:** headline KPIs, revenue split by payment mode (donut), revenue by month, city and payment mode (clustered column), a product table with price tier and share of total, a customer ranking table and a month-level matrix with MTD / QTD / last-year / YTD.
 
@@ -77,7 +77,7 @@ Calculated columns added in the model: `Order Size` (Bulk / Normal), `Price Tier
 - **Drillthrough by city** to the customer detail page, with a back button.
 
 ### Page 2: Product & Customer Analysis
-![Product and customer analysis](images/02-product-customer-analysis.png)
+![Product and customer analysis](./Product%20and%20customer%20analysis.png)
 
 **What it shows:** product ranking by revenue, each customer's revenue compared with the average customer, and a payment-mode slicer.
 
@@ -88,7 +88,7 @@ Calculated columns added in the model: `Order Size` (Bulk / Normal), `Price Tier
 - `Magic Revenue`: variable + `SELECTEDVALUE` pattern that returns revenue for the single selected payment mode (blank when none or several are selected).
 
 ### Page 3: Customer Detail (Drillthrough)
-![Customer detail](images/03-customer-detail-drillthrough.png)
+![Customer detail](./Customer%20detail.png)
 
 **What it shows:** reached by right-click drillthrough from a city on Page 1. A **"Select Metric" field parameter** lets the viewer switch the chart between Total Revenue, Revenue MTD and Revenue YTD, next to a payment-mode breakdown and a customer table.
 
